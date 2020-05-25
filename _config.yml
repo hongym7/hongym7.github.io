@@ -96,26 +96,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Imreplay"
+  name             : "Hong Yong Man"
   avatar           : "/assets/img/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "천천히 굴러가는 개인 공부 블로그"
+  bio              : "I am an **amazing** person."
   location         : "Republic of Korea"
-  email            : "imreplay@imreplay.com"
+  email            : "hongym7@naver.com"
   uri              : 
-  home             : "https://imreplay.com" # null (default), "absolute or relative url to link to author home"
-  bitbucket        : "imreplay"
+  home             : "https://blog.naver.com/hongym7" # null (default), "absolute or relative url to link to author home"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "imreplay08"
+  facebook         : "yongman.hong"
   foursquare       :
-  github           : "imreplay"
-  gitlab           : "imreplay"
+  github           : "hongym7"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "imreplay" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "hongym7" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
