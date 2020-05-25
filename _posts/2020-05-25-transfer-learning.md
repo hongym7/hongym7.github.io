@@ -11,7 +11,7 @@ categories: Paper Review
 - selffer BnB   : baseB를 가져와 n 번째 layer 까지 freezing 하고 Train  
 - selffer BnB+  : baseB를 가져와 n 번째 layer 까지의 가중치로 초기화하여 전체 Train  
 - transfer AnB  : baseA를 가져와 n 번째 layer 까지 freezing 하고 Train  
-- transfer AnB+ : baseA를 가져와 n 번째 layer 까지의 가중치로 초기화하여 전체 Train (Fine Tunning, 성능 가장 우수)  
+- __transfer AnB+__ : baseA를 가져와 n 번째 layer 까지의 가중치로 초기화하여 전체 Train (Fine Tunning, 성능 가장 우수)  
 
 단, A B dataset이 유사한 경우.
 
