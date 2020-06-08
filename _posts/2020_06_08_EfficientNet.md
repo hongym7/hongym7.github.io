@@ -10,4 +10,8 @@ Conv Network의 scale을 키우면서 accuracy와 efficiency를 높히는 방법
 그건 network의 width/depth/resolution을 조화롭게 키우는 것이다.  
 **compound scaling methods** 라 한다  
   
+<img src="/assets/img/efficientnet_01.png" width="90%"/>
 
+
+
+<img src="/assets/img/efficientnet_02.png" width="90%"/>
