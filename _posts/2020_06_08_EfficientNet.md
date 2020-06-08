@@ -16,13 +16,10 @@ Conv Network의 scale을 키우면서 accuracy와 efficiency를 높히는 방법
 * depth scaling : conv layer를 길게 만든는
 * resoulution scaling : input 시, 이미지의 w, h 를 크게 만드는
 * compound scaling : 위 3가지를 조화롭게  
-  
-  
-  
-  
-  
-    
+   
       
-        
-        
+         
+            
+               
+               
 <img src="/assets/img/efficientnet_02.png" width="90%"/>
