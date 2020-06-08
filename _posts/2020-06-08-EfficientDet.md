@@ -7,6 +7,11 @@ categories: Paper Review
 # Approach  
 both higher accuracy and better efficiency across a wide spectrum of resource constraints  
   
-     
+<img src="/assets/img/efficientdet_02.png" width="90%"/>    
+
+
 <img src="/assets/img/efficientdet_01.png" width="90%"/>    
-ImageNet-pretrained EfficientNet + BiFPN
+ImageNet-pretrained EfficientNet + BiFPN  
+  
+    
+ 
