@@ -19,4 +19,10 @@ Conv Network의 scale을 키우면서 accuracy와 efficiency를 높히는 방법
   
   
   
+  
+  
+    
+      
+        
+        
 <img src="/assets/img/efficientnet_02.png" width="90%"/>
