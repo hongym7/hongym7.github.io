@@ -23,4 +23,4 @@ Conv Network의 scale을 키우면서 accuracy와 efficiency를 높히는 방법
                
                
 <img src="/assets/img/efficientnet_02.png" width="90%"/>  
-적절한 조합값을 찾아 비슷한 파라미터 사용에서도 더 좋은 정확도를 보여준다.
+**적절한 조합값을 찾아 비슷한 파라미터 사용에서도 더 좋은 정확도를 보여준다.**
