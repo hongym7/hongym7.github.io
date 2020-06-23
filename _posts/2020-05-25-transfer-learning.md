@@ -20,7 +20,7 @@ Fine Tuning 이란?
   
   
        
-Q : Dataset 이 Dissimilar 할 때는 ?
+Q : Dataset 이 Dissimilar 할 때는 ?  
 A : 두 데이터가 유사하지 않은 경우에 대해서는 해당 내용이 충분한 설명이 될지는 모르겠으나,
 "cs231n 2017년 Lecture7-93 자료"를 참고하고자 합니다(http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture7.pdf).
 - 상당히 다른, 그리고 적은 양의 데이터셋을 transfer learning하는 경우: classification  의 경우, '쉽지 않을 것으로 보이며, 다른 단계에서 classifier 진행할 것'을 말하고 있으며,
