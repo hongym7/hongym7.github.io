@@ -10,7 +10,7 @@ categories: Paper Review
  - ImageNet dataset + JFT-300M dataset 을 이용하여 Student model 학습  
     
     
-#### - 3가지 noisy를 준다. 
+#### - Student model 학습 시, 아래 3가지 noisy를 준다. 
  - stochastic depth
  - dropout
  - rand augment
