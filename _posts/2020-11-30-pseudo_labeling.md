@@ -6,9 +6,9 @@ tags: [PseudoLabeling, SemisupervisedLearning]
 ---
    
 ### Pseudo Labeling 이란 ?  
-#### - Test Data 에 대하여 Predict한 Label 값을 이용하여 Re-Train 하여 성능을 높히는 Semi-supervised Learning 의 한 방법  
-  
-  
+#### - Test Data 에 대하여 Predict한 Label 값을 이용하여 Re-Train 하여 성능을 높히는 Semi-supervised Learning 의 한 방법   
+   
+   
 ### 단계
 1. Build a model using training data.
 2. Predict labels for an unseen test dataset.
