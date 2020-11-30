@@ -14,7 +14,7 @@ tags: [PseudoLabeling, SemisupervisedLearning]
 2. Predict labels for an unseen test dataset.
 3. Add confident predicted test observations to our training data
 4. Build a new model using combined data.
-5. Use your new model to predict the test data  
-  
+5. Use your new model to predict the test data   
+
 
 
