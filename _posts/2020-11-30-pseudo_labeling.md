@@ -15,6 +15,8 @@ tags: [PseudoLabeling, SemisupervisedLearning]
 3. Add confident predicted test observations to our training data
 4. Build a new model using combined data.
 5. Use your new model to predict the test data   
-
+  
+<img src="/assets/img/pseudo-labeling_01.png" />  
+출처 : https://datawhatnow.com/pseudo-labeling-semi-supervised-learning/
 
 
