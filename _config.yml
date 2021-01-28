@@ -102,7 +102,7 @@ author:
   location         : "Republic of Korea"
   email            : "hongym7@naver.com"
   uri              : 
-  home             : "https://blog.naver.com/hongym7" # null (default), "absolute or relative url to link to author home"
+  home             : 
   bitbucket        : 
   codepen          :
   dribbble         :
