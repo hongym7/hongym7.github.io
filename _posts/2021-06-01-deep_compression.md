@@ -15,4 +15,5 @@ categories: Paper
 가중치 표현의 비트 수를 감소 시키고, 가중치를 공유.  
 공유되어지는 가중치(Centroids)는 Fine Tunning을 통해 학습되어진다.
 
-#### 3. Huffman Coding
+#### 3. Huffman Coding   
+자주 등장하는 심볼에 대하여 적은 bit를 하게끔한다.
