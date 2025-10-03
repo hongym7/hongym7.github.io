@@ -1,12 +1,6 @@
 ---
 title: "Efficient Memory Management for Large Language Model Serving with PagedAttention"
-date: 2025-03-01 18:00:00
-categories: [머신러닝, AI, LLM]
----
-
----
-title: "PagedAttention을 활용한 대형 언어 모델 서빙의 효율적 메모리 관리"
-date: 2025-10-03 18:05:00
+date: 2025-03-01 18:05:00
 categories: [머신러닝, AI, LLM, 메모리관리]
 ***
 
