@@ -1,9 +1,8 @@
 ---
-title: "Efficient Memory Management for Large Language Model Serving with PagedAttention"
-date: 2025-03-01 18:05:00
+title: "RemixMatch, FixMatch"
+date: 2021-11-09 10:00:00
 categories: Words
 ---
-
 
 # PagedAttention 기반 대형 언어 모델 서빙의 효율적 메모리 관리
 
